@@ -2,7 +2,9 @@
 Starting with a Case Study &amp; Paperfolding to understand parameters, variables, formulae and geometry
 
 ## Questions
-- How do you code to different screen sizes and orientations?
+- How does paper folding and origami hand skills help understand GUI Design (Graphical User Interface)
+- How do you code to different screen sizes and orientations of various Android Devices?
+- Is it possible to code without the use of pixel numbers by making the computer do the arithmetic work?
 - Is it possible to initiate and populate before use size() or fullScreen()?
 - What are different ways of initiating and populating primitive variables?
 
@@ -10,9 +12,11 @@ Starting with a Case Study &amp; Paperfolding to understand parameters, variable
 - Pick a screen size & orientation
 - Draw a rectangle in the middle of the canvas
 - Add hardcoded and random colours
-- Introduce dark & light modes
+- Introduce dark & light Mode
+- Introduce Night Reading Mode
 
 ## Instructions, Vocabulary, & Explanations (Including URLs and IDE Use)
+- Start with a paper Case Study built on paperfolding to understand approximate faction or ratio values
 - IDE Color Selector: Tools / Color Selector
 - See Processing.org for additional parameters like opacity
 
@@ -53,6 +57,9 @@ Starting with a Case Study &amp; Paperfolding to understand parameters, variable
 - Colour Mode choices:
   - dark mode is easier readying on eyes and uses less battery
   - limiting BLUE in RGB values helps relax the mind before sleeping
+
+## Extensions
+- Drawing Rectangles will help understand parts of canvas needed for various parts of an app
 
 ---
 
