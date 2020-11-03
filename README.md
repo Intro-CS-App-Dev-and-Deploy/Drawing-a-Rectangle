@@ -2,7 +2,7 @@
 Starting with a Case Study &amp; Paperfolding to understand parameters, variables, formulae and geometry
 
 ## Questions
-- How does paper folding and origami hand skills help understand GUI Design (Graphical User Interface)
+- How does paper folding and origami hand skills help understand GUI Design (Graphical User Interface)?
 - How do you code to different screen sizes and orientations of various Android Devices?
 - Is it possible to code without the use of pixel numbers by making the computer do the arithmetic work?
 - Is it possible to initiate and populate before use size() or fullScreen()?
