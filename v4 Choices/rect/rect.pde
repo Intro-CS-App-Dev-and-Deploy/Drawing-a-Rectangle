@@ -23,3 +23,8 @@ if ( NightMode == true ) {
 stroke(colourStroke); //Not repeating lines of code
 fill(colourFill);
 rect(x, y, widthRect, heightRect);
+// Reset to Default
+strokeWeight(1); //reset to default, pixel value
+stroke(black); //default
+fill(255); //default
+//End Program
