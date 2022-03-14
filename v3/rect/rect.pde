@@ -13,8 +13,8 @@ background( color(random(0, 255), random(255), random(255)) ); //Casting Reminde
 background(black); //color( random(0, 255), random(255), random(255) )
 //
 strokeWeight(thick);
-stroke(yellow); //yellowNight
-fill(purple); //purpleNight
+stroke(yellow); //yellowNightMode
+fill(purple); //purpleNightMode
 rect(x, y, widthRect, heightRect);
 // Reset to Default
 strokeWeight(1); //reset to default, pixel value
