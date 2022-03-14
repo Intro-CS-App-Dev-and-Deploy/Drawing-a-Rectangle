@@ -10,6 +10,7 @@ int thin=width*1/50, thick=2*thin;
 background(70);
 // New Background Function "covers" old gray scale background()
 //Colour RGB, random(a, b)
+// Night Mode means background cannot have blue // change randome for night mode, hard code "0"
 background( color(random(0, 255), random(255), random(255)) ); //Casting Reminder
 //
 background(black); //color( random(0, 255), random(255), random(255) )
