@@ -6,6 +6,7 @@ int thin=width*1/50, thick=2*thin;
 //
 //Gray Scale, 0-255
 background(70);
+// New Background Function "covers" old gray scale background()
 //Colour RGB, random(a, b)
 background( color(random(0, 255), random(255), random(255)) ); //Casting Reminder
 //
