@@ -20,5 +20,10 @@ void mousePressed()
 {
   if (mouseButton == LEFT) nightMode=true;
   if (mouseButton == RIGHT) nightMode=false;
-  if (mouseButton == CENTER) ahhh=true; //Coding Joke
+  if (mouseButton == CENTER)  
+  {
+    ahhh=true; //Coding Joke
+  } else {
+    ahhh=false;
+  }
 }//End mousePressed
