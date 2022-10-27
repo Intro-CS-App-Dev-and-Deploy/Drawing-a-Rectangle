@@ -15,7 +15,7 @@ background( color(random(0, 255), random(255), random(255)) ); //Casting Reminde
 //
 background(black); //color( random(0, 255), random(255), random(255) )
 //
-strokeWeight(thick);
+strokeWeight(thick); //noStroke()
 stroke(yellow); //yellowNightMode
 fill(purple); //purpleNightMode
 rect(x, y, widthRect, heightRect);
